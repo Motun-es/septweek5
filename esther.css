@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+ div > article{
+    @apply border-8 border-pink-600 border-dashed
+ }

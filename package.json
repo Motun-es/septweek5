@@ -1,0 +1,16 @@
+{
+  "name": "week5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "esther": "tailwindcss -i ./esther.css -o ./frontend/oyin.css --watch"
+     
+  },
+  "author": "Esther",
+  "license": "ISC",
+  "description": "tailwindcss fundamentals",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
